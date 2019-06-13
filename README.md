@@ -8,6 +8,6 @@
 版本 <a href="https://nodejs.org" rel="nofollow">Node.js</a>:v10.15.0   <a href="https://www.mongodb.org" rel="nofollow">MongoDB</a> :3.7.9-224-gc23aaecb55 <br/>   
 （1）npm install  分别安装依赖包<br/>
 （2）node index.js  运行服务<br/>
-（3）npm 
+（3）npm run dev
 
 
