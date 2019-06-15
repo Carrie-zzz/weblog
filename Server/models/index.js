@@ -6,10 +6,10 @@ mongoose.connect("mongodb://localhost/Test",{
 	useNewUrlParser: true
 },function (err) {
 	if(err) {
-		console.warn("**********【数据库连接失败】**********");
+		console.warn("***********【数据库连接失败】***********");
 		process.exit(1);
 	}
-	console.log("**********【数据库连接成功】**********");
+	console.log("***********【数据库连接成功】**********");
 })
 
 require("./user")
