@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'App',
+  name: 'App'
   // mounted () {
   //   this.$http.get('/api/user/get').then(data => {
   //     console.log(data)
